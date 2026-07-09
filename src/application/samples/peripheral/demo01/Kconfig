@@ -1,0 +1,5 @@
+config DEMO01_VEHICLE_END
+    bool "DEMO01 Vehicle End (ALL)"
+    default y
+    help
+        Vehicle end with PWM servo, vibration sensor, WiFi STA, SLE Server.

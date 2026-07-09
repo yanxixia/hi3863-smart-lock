@@ -1,0 +1,5 @@
+config DEMO02_MOBILE_END
+    bool "DEMO02 Mobile End (ALL)"
+    default y
+    help
+        Mobile end with OLED, key interrupt, buzzer, WiFi SoftAP, SLE Client.
